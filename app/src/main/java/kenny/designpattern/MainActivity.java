@@ -1,12 +1,12 @@
-package kenny.designmode;
+package kenny.designpattern;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import kenny.designmode.builder_mode.builder.MacbookBuilder;
-import kenny.designmode.builder_mode.product.Computer;
+import kenny.designpattern.builder_pattern.builder.MacbookBuilder;
+import kenny.designpattern.builder_pattern.product.Computer;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

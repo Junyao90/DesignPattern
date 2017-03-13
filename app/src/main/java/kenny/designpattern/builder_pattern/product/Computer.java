@@ -1,8 +1,7 @@
-package kenny.designmode.builder_mode.product;
+package kenny.designpattern.builder_pattern.product;
 
 /**
  * @author Junyao
- * @package kenny.designmode.builder_mode
  */
 
 public abstract class Computer {

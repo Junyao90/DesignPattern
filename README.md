@@ -1,5 +1,5 @@
-DesignMode
+DesignPattern
 ---
 
  
- -  [BuilderMode](./app/src/main/java/kenny/designmode/builder_mode/BUILDER.md)
+ -  [BuilderPattern](./app/src/main/java/kenny/designmode/builder_mode/BUILDER.md)

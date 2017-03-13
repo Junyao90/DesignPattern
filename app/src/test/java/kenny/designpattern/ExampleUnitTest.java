@@ -1,4 +1,4 @@
-package kenny.designmode;
+package kenny.designpattern;
 
 import org.junit.Test;
 

@@ -1,10 +1,9 @@
-package kenny.designmode.builder_mode.builder;
+package kenny.designpattern.builder_pattern.builder;
 
-import kenny.designmode.builder_mode.product.Computer;
+import kenny.designpattern.builder_pattern.product.Computer;
 
 /**
  * @author Junyao
- * @package kenny.designmode.builder_mode
  */
 
 public abstract class Builder {
